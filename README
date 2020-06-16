@@ -1,0 +1,25 @@
+NAME:
+
+2017 - 2019 Auto accidents in Nashville, TN
+
+
+DESCRIPTION:
+
+This capstone project will explore the auto accidents occured during 2017 through 2019 in Nashville city, Tennessee State and draw inferences whether reckless driving has become more prevalent in the city. 
+
+DATA SOURCES:
+
+https://data.nashville.gov/Police/Traffic-Accidents-2019-/abyc-w6mc
+https://data.nashville.gov/Police/Traffic-Accidents-2018-/8kay-6qhc
+https://data.nashville.gov/Police/Traffic-Accidents-2017-/v6ss-vxgd
+
+
+Data Question(s)
+Q1. How many total auto accidents per year in Nashville Davidson County?
+Q2. Which region has the most accidents compared to other regions?
+Q3. What time of the year did the accident occur the most? 
+Q4. Did the weather condition cause the accidents?
+Q5. What is the fatality rate? What is the injury rate?
+
+
+
