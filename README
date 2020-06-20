@@ -12,6 +12,7 @@ https://data.nashville.gov/Police/Traffic-Accidents-2018-/8kay-6qhc
 https://data.nashville.gov/Police/Traffic-Accidents-2017-/v6ss-vxgd
 https://data.nashville.gov/Police/Traffic-Accidents-2016-/p8j3-w8wi
 https://data.nashville.gov/Police/Traffic-Accidents-2015-/usum-h3s3
+https://www.tn.gov/tdot/long-range-planning-home/longrange-road-inventory/longrange-road-inventory-highway-performance-monitoring-system.html
 
 
 Data Question(s)
@@ -19,7 +20,7 @@ Q1. How many total auto accidents per year in Nashville Davidson County?
 Q2. Which region has the most accidents compared to other regions?
 Q3. What time of the year did the accident occur the most? 
 Q4. Did the weather condition cause the accidents?
-Q5. What is the fatality rate? What is the injury rate?
+Q5. What are the fatality and injury involoved?
 
-
+Tableau: https://public.tableau.com/profile/chmun#!/vizhome/NashvilleDavidsonCountyTrafficCrash/Story-NashvilleDavidsonCountyCrash
 
